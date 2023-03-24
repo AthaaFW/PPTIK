@@ -1,0 +1,85 @@
+{
+  "kontak": [
+    {
+      "id": 1,
+      "namaDep": "Udin",
+      "namaBel": "Sarudin",
+      "email": "email@gmail.com",
+      "noHp": "0821123123",
+      "tujuan": "Saya ingin bergabung",
+      "pesan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem ex temporibus sapiente ad est assumenda. Exercitationem eius, dolorum sed sint, veritatis voluptatibus iusto quod, error est eligendi at! Nihil, dicta nemo, saepe excepturi, quia quis totam beatae commodi cumque dignissimos quos maxime facere illum? Soluta incidunt obcaecati tempora veniam quasi!"
+    },
+    {
+      "id": 2,
+      "namaDep": "Jajang",
+      "namaBel": "Sudirman",
+      "email": "ehmail@gmail.com",
+      "noHp": "08212323123",
+      "tujuan": "Saya ingin berkolaborasi",
+      "pesan": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem ex temporibus sapiente ad est assumenda. Exercitationem eius, dolorum sed sint, veritatis voluptatibus iusto quod, error est eligendi at! Nihil, dicta nemo, saepe excepturi, quia quis totam beatae commodi cumque dignissimos quos maxime facere illum? Soluta incidunt obcaecati tempora veniam quasi!"
+    },
+    {
+      "namaDep": " Test",
+      "namaBel": " asd",
+      "email": " asdsd",
+      "noHp": " asdasd",
+      "tujuan": "Saya ingin berkolaborasi",
+      "pesan": " asdasdasdasd",
+      "id": 3
+    },
+    {
+      "namaDep": " rdcytdcgnhcg",
+      "namaBel": "u6rxcikysyetrxrhtx ",
+      "email": " 68rc 75fufytfv",
+      "noHp": " asdasd",
+      "tujuan": "Saya ingin berkolaborasi",
+      "pesan": " vl4b9trn6g8mu",
+      "id": 4
+    },
+    {
+      "namaDep": "Flamigo",
+      "namaBel": " Amigo",
+      "email": "Amigo@gmail.com",
+      "noHp": " 08219230123",
+      "tujuan": "Saya ingin bergabung",
+      "pesan": " Saya ingin bekerja diperusahaan anda sebagai bla bla bla",
+      "id": 5
+    },
+    {
+      "namaDep": " Tatang",
+      "namaBel": " Iskandar",
+      "email": " tatang@gmail.com",
+      "noHp": " 08129123821",
+      "tujuan": "Saya ingin berkolaborasi",
+      "pesan": " Ayok kita collab",
+      "id": 6
+    },
+    {
+      "namaDep": "Roger ",
+      "namaBel": " Sumatra",
+      "email": "roger1912@gmail.com",
+      "noHp": " 08217312123213",
+      "tujuan": "Saya memiliki proposal kerja sama",
+      "pesan": "Saya ingin menggunakan marksman",
+      "id": 7
+    },
+    {
+      "namaDep": " Test",
+      "namaBel": " Iskandar",
+      "email": " hiughhkj",
+      "noHp": " 08129123821",
+      "tujuan": "Saya ingin berkolaborasi",
+      "pesan": " bnm,lplp[klopkopkopkop",
+      "id": 8
+    },
+    {
+      "namaDep": " leee awe",
+      "namaBel": " awe wewewewe",
+      "email": " hiughhkj",
+      "noHp": " 08217312123213",
+      "tujuan": " ",
+      "pesan": " eeffrfrffefrefrfrefr",
+      "id": 9
+    }
+  ]
+}

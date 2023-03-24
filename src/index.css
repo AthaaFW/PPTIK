@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dropdown-hide{
+  transition: all 0.2s ease-in-out;
+  transform: translateY(-100%) scaleX(70%);
+  display: none;
+}
+
+.dropdown-open{
+  transition: all 0.2s ease-in-out;
+  transform: translateY(0%);
+}
+
+/* .card-img{
+  transition: all 0.3s ease-in-out;
+}
+
+.card-img:hover{
+  transform: scale(1.1);
+} */
+
+.nav-link{
+  position: relative;
+  cursor: pointer;
+}
+
+
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1.8px;
+  bottom: -2px;
+  left: 0;
+  background-color: white;
+  transform-origin: bottom left;
+  transition: transform 0.2s ease-out;
+}
+
+.nav-link:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.active{
+  color: white;
+}
+
+.active:after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(100%);
+  height: 1.8px;
+  bottom: -2px;
+  left: 0;
+  background-color: white;
+}
+
+.item {
+  flex: 1 1 0;
+  width: 0;
+}
+
+#tim .title::after{
+  content: ' ';
+  position: absolute;
+  width: 80%;
+  height: 3px;
+  bottom: -5px;
+  left: 10%;
+  background-color: rgb(58, 58, 58);
+}
+
+#home .btn{
+  transition: all 0.2s ease-in-out;
+  transform-origin: left;
+}
+
+.line::after{
+  content: ' ';
+  position: absolute;
+  width: 15%;
+  height: 3px;
+  bottom: -5px;
+  left: 2px;
+  background-color: rgb(58, 58, 58);
+}
+
+.line2::after{
+  content: ' ';
+  position: absolute;
+  width: 75%;
+  height: 3px;
+  bottom: -5px;
+  left: 2px;
+  background-color: rgb(58, 58, 58);
+}
+
+#galeri .box{
+  transition: all 0.2s ease-in-out;
+  opacity: 0;
+}
+
+#galeri .box:hover{
+  opacity: 1;
+}
+
+
+
